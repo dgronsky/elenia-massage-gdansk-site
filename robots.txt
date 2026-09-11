@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+Sitemap: https://dgronsky.github.io/elenia-massage-gdansk-site/sitemap.xml
+
