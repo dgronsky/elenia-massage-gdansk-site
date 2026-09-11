@@ -1,7 +1,7 @@
 const SITE_LINKS = Object.freeze({
   booksy: "https://booksy.com/pl-pl/358793-elenia-massage-gdansk",
   instagram: "",
-  facebook: ""
+  facebook: "https://www.facebook.com/profile.php?id=61594195295283"
 });
 
 const TRANSLATIONS = {
@@ -78,4 +78,3 @@ navigation.querySelectorAll("a").forEach((link) => link.addEventListener("click"
 }));
 year.textContent = String(new Date().getFullYear());
 applyLanguage("pl");
-
