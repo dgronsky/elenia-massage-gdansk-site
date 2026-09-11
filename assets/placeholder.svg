@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 960" role="img" aria-labelledby="title desc">
+  <title id="title">Elenia Massage Gdańsk</title>
+  <desc id="desc">Spokojna abstrakcyjna grafika tymczasowa</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#07383e"/>
+      <stop offset="1" stop-color="#295158"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="55%">
+      <stop offset="0" stop-color="#e9f4f1" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#b9ddd5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="960" height="960" fill="url(#bg)"/>
+  <circle cx="480" cy="390" r="370" fill="url(#glow)"/>
+  <path d="M195 710C320 540 428 506 551 546c87 29 142 4 214-84" fill="none" stroke="#b9ddd5" stroke-width="16" stroke-linecap="round" opacity=".75"/>
+  <path d="M235 785C350 632 485 624 610 683" fill="none" stroke="#d9825b" stroke-width="8" stroke-linecap="round" opacity=".8"/>
+  <text x="480" y="372" fill="#fffdf8" font-family="Georgia, serif" font-size="86" text-anchor="middle">Elenia</text>
+  <text x="480" y="432" fill="#e9f4f1" font-family="Arial, sans-serif" font-size="28" letter-spacing="8" text-anchor="middle">MASSAGE GDAŃSK</text>
+</svg>
+
