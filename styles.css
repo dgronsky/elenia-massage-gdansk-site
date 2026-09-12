@@ -359,6 +359,20 @@ h3 {
   min-height: 42rem;
 }
 
+.visualization-note {
+  position: absolute;
+  right: 0.8rem;
+  bottom: 0.8rem;
+  z-index: 2;
+  padding: 0.4rem 0.65rem;
+  border-radius: 999px;
+  background: rgba(5, 57, 61, 0.82);
+  color: #fff;
+  font-size: 0.75rem;
+  line-height: 1.2;
+  backdrop-filter: blur(6px);
+}
+
 .hero-visual::before {
   content: "";
   position: absolute;
