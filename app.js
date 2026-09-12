@@ -1,6 +1,6 @@
 const SITE_LINKS = Object.freeze({
   booksy: "https://booksy.com/pl-pl/358793-elenia-massage-gdansk",
-  instagram: "",
+  instagram: "https://www.instagram.com/elenia.massage.gdansk/",
   facebook: "https://www.facebook.com/profile.php?id=61594195295283"
 });
 
